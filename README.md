@@ -1,1 +1,2 @@
-# class-20-rectangles
+# collisionAlgorithm
+Algorithm to detect collision between two objects
